@@ -1,1 +1,10 @@
 /* this is comment */
+body {
+  /* background-color: lightblue; */
+  background-image: url("./psychedelic-paper-shapes-with-copy-space.jpg");
+  background-repeat: no-repeat;
+}
+div {
+  background-color: green;
+  /* opacity: 0.6; */
+}
